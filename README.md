@@ -1,4 +1,4 @@
-# Practica-MachineLearning-scikitlearn
+# Curso-MachineLearning-scikitlearn
 
 Usé la libreria "scikit-learn" en Python (con Spyder).
 
